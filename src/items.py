@@ -1,11 +1,11 @@
 # Items that exist in each room and the functions you can use to interact with them
 
 #TODO Define items in each room
-room0items = []
-room1items = []
-room2items = []
-room3items = []
-room4items = []
+room0items = ['small mailbox', 'boards', 'leaflet']
+room1items = ['fishing rod']
+room2items = ['open grating', 'ogre']
+room3items = ['human male skeleton', 'torch', 'lamp', 'staircase']
+room4items = ['old trunk', 'Jade Statue']
 # ...
 
 allItems = [room0items, room1items, room2items, room3items, room4items]
