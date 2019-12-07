@@ -24,6 +24,7 @@ def pick_up(itemName, roomNum):
 def put_down(itemName, roomNum):
     print("You put down the ", itemName)
     # TODO Add item to room item list
+    roomNum.append(itemName)
     return 0
 
 # def useItem()
